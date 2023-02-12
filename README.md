@@ -13,4 +13,3 @@ Obina
 Heitor
 Arrascaqueta
 n sei +
-foda-se futebol
